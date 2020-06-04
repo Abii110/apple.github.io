@@ -12,7 +12,7 @@ body{
 
 header{
   background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('../images/Header.jpg');
-  background-size: auto;
+  background-size: 1920px;
   background-repeat: no-repeat;
   background-position: center;
   height: 100vh
